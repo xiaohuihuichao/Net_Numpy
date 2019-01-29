@@ -1,0 +1,2 @@
+# Net_Numpy
+This is a Network Library ONLY using Numpy. There are Fully-connection Layer, Activation Layer, Loss Layer, Pooling Layer and Convolutional Layer. A class named Net can create a network to train and run through these layers.
